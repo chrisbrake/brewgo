@@ -1,0 +1,12 @@
+---
+
+equipment:
+  bottles:
+    - calacity: 0.355 # 28.4 L Total
+      count: 82
+  carboys:
+    - capacity: 23.0
+      count: 3
+  buckets:
+    - capacity: 23.0
+      count: 2
