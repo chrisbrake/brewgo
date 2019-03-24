@@ -11,5 +11,5 @@ equipment:
     - capacity: 23.0
       count: 2
   pots:
-    - capacity: 17.5 L # Just covering the top rivet
+    - capacity: 17.5 # Just covering the top rivet
       count: 1
