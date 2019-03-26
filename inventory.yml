@@ -7,6 +7,13 @@ equipment:
   carboys:
     - capacity: 23.0
       count: 3
+      markings:
+        liters:
+          - 2
+          - 8
+          - 12
+          - 18
+          - 23
   buckets:
     - capacity: 23.0
       count: 2
