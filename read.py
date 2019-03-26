@@ -9,8 +9,8 @@ import yaml
 def get_options():
     parser = argparse.ArgumentParser(description='Read inventory.yml')
     parser.add_argument(
-        '--refresh-rate', dest='refresh_rate', action='store', default=0, type=int,
-        help='How often to refresh, (seconds).')
+        '--refresh-rate', dest='refresh_rate', action='store', default=0,
+        type=int, help='How often to refresh, (seconds).')
 
     options = parser.parse_args()
     return options
